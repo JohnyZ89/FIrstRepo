@@ -111,8 +111,7 @@
 					</g:each>
 				</ul>
 			</div>
-			adfasfsa
-			AAAAA
+			<h1> Test page</h1>
 		</div>
 	</body>
 </html>
